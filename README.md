@@ -7,7 +7,7 @@ In this project we are trying to identify the cryptocurrencies on trading market
 
 ### **Project Summary**
 
-Our data source is the coin list obtained from [cryptocompare.com](https://www.cryptocompare.com/). [Fig. 1](screen_shots/1.png) shows a part of this dataset:  
+Our data source is the coin list obtained from [cryptocompare.com](https://www.cryptocompare.com/). [Fig. 1](screen_shots/1.png) shows a part of this dataset. The data itself can be found in "[crypto_data.csv](crypto_data.csv)":  
 
 <center>
 
